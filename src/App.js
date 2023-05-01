@@ -1,5 +1,5 @@
 import "./App.css";
-import Forms from "../../form-with-react/src/component/Forms";
+import Forms from "./component/Forms";
 import axios from "axios";
 import { nanoid } from "nanoid";
 
